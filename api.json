@@ -1,0 +1,31 @@
+{
+    "billlist": [
+        {
+            "name": "Mercedes-Benz GLS SUV",
+            "category": "Budget",
+            "persons": 4,
+            "suitcases": 0,
+            "comfort": "low",
+            "image": "css/images/mercedes.png",
+            "price": 1300
+        },
+        {
+            "name": "Chevrolet Aveo",
+            "category": "Standard",
+            "persons": 5,
+            "suitcases": 3,
+            "comfort": "medium",
+            "image": "css/images/chevrolet.png",
+            "price": 1800
+        },
+        {
+            "name": "Toyota Avanza Minivan",
+            "category": "Minivan",
+            "persons": 7,
+            "suitcases": 1,
+            "comfort": "high",
+            "image": "css/images/Toyota.png",
+            "price": 2000
+        }
+    ]
+}
