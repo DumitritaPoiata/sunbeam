@@ -7,7 +7,7 @@
             "suitcases": 0,
             "comfort": "low",
             "image": "css/images/mercedes.png",
-            "priceperday": 1300
+            "price": 1300
         },
         {
             "name": "Chevrolet Aveo",
@@ -16,7 +16,7 @@
             "suitcases": 3,
             "comfort": "medium",
             "image": "css/images/chevrolet.png",
-            "priceperday": 1800
+            "price": 1800
         },
         {
             "name": "Toyota Avanza Minivan",
@@ -25,7 +25,7 @@
             "suitcases": 1,
             "comfort": "high",
             "image": "css/images/Toyota.png",
-            "priceperday": 2000
+            "price": 2000
         }
     ]
 }
